@@ -32,8 +32,8 @@ Delivered a fully interactive Power BI Inventory Management Dashboard that: Enab
 * Availability Metrics: See the percentage of stock availability at a glance.
 
 ## Skills Used
-Power BI: Dashboard development, visualizations, and data modeling.
-Data Cleaning & Transformation: Structured raw data for analysis using Power Query.
-DAX Calculations: Created measures for KPIs and other metrics.
-Data Visualization: Built user-friendly charts and interactive visuals.
-Problem-Solving: Translated business requirements into actionable insights.
+* Power BI: Dashboard development, visualizations, and data modeling.
+* Data Cleaning & Transformation: Structured raw data for analysis using Power Query.
+* DAX Calculations: Created measures for KPIs and other metrics.
+* Data Visualization: Built user-friendly charts and interactive visuals.
+* Problem-Solving: Translated business requirements into actionable insights.
